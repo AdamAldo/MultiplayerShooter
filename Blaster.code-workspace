@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "Blaster",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "C:\\Program Files\\Epic Games\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"C:\\Users\\adumb\\Desktop\\Unreal Engine 5 C++ Multiplayer Shooter Class\\Blaster\\Plugins\\MultiplayerSessions\\Intermediate\\Build\\Win64\\UnrealEditor\\Development\\MultiplayerSessions\\Definitions.MultiplayerSessions.h",
+			"C:\\Users\\adumb\\Desktop\\Unreal Engine 5 C++ Multiplayer Shooter Class\\Blaster\\Intermediate\\Build\\Win64\\BlasterEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h",
+			"C:\\Users\\adumb\\Desktop\\Unreal Engine 5 C++ Multiplayer Shooter Class\\Blaster\\Intermediate\\Build\\Win64\\UnrealEditor\\Development\\Blaster\\Definitions.Blaster.h",
+			"C:\\Users\\adumb\\Desktop\\Unreal Engine 5 C++ Multiplayer Shooter Class\\Blaster\\Intermediate\\Build\\Win64\\BlasterEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
